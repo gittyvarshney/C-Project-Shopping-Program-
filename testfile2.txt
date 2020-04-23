@@ -1,0 +1,33 @@
+pranjul
+8586896076
+Description of items
+Item Category: Shoes	Item Name: NikeRevolution3	Item price: 700	Item Id AO392
+Item Category: Games	Item Name: AssasinCreedUnity	Item price: 700	Item Id A0329
+Item Category: AppleiPhone	Item Name: 8Plus	Item price: 3500	Item Id A0330
+Item Category: Laptops	Item Name: DellInspironi3	Item price: 3500	Item Id AO326
+Grand Total 8400 Quantity  4
+yashubhadua
+7078962310
+Description of items
+Item Category: AppleiPhone	Item Name: iPhone6	Item price: 3200	Item Id A0332
+Item Category: Laptops	Item Name: DellInspironi3	Item price: 3500	Item Id AO326
+Item Category: Television	Item Name: MiL.E.D.SmartT.V.	Item price: 2340	Item Id AO396
+Grand Total 9040 Quantity  3
+Sunil
+975432198
+Description of items
+Item Category: AppleiPhone	Item Name: 8Plus	Item price: 3500	Item Id A0330
+Item Category: XiomiPhones	Item Name: RedmiNote5	Item price: 1800	Item Id A0333
+Grand Total 5300 Quantity  2
+Nimesh
+8786797987
+Description of items
+Item Category: Television	Item Name: OnidaSmartT.V.	Item price: 2000	Item Id AO322
+Item Category: Laptops	Item Name: Acceri5	Item price: 3000	Item Id AO324
+Grand Total 5000 Quantity  2
+Pranjul_varshney
+983718908
+Description of items
+Item Category: Television	Item Name: MiL.E.D.SmartT.V.	Item price: 2340	Item Id AO396
+Item Category: Games	Item Name: GTA5	Item price: 500	Item Id A0328
+Grand Total 2840 Quantity  2
