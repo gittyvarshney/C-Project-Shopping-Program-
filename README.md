@@ -1,10 +1,10 @@
 # C-Project-Shopping-Program-
-This is my C shopping project which I made myself during 2nd semester of my Bachelor from the knowledge of linked lists \n
-This Project Contains 3 Files \n
-First is c code file \n
-Second is list of items \n
-Third is test file which stores the information of a user which just finished the shopping
-Project contains three Structures for user id, for product fetching from txt file, for ekart.
+This is my C shopping project which I made myself during 2nd semester of my Bachelor from the knowledge of linked lists <br />
+This Project Contains 3 Files <br />
+First is c code file <br />
+Second is list of items <br />
+Third is test file which stores the information of a user which just finished the shopping <br />
+Project contains three Structures for user id, for product fetching from txt file, for ekart. <br />
 This Project contains features:-
 To shop for list of items
 To view your cart (linked list implementation)
